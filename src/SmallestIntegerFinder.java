@@ -12,9 +12,4 @@ public class SmallestIntegerFinder {
         }
         return min;
     }
-    public static void main(String[] args){
-        int[] arr = {10, 5, 8, 12, 46};
-
-        System.out.println(findSmallestInt(arr));
-    }
 }
